@@ -19,12 +19,12 @@ tr.create_triangle()
 print("The Sides Of Triangle are")
 tr.printside()
 
-class halwa:
+class pkoda:
     a=""
     def gets(self):
         self.a=input("Enter The String")
         return (self.a)
-ha=halwa()
+ha=pkoda()
 print("THE INPUT STRING IS" ,ha.gets())
 
 class Rectangle:
